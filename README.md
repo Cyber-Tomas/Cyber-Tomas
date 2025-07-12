@@ -10,7 +10,7 @@ I am also Open to meeting like minded people here on any learning path to learn 
 - 🤔 I’m looking for help with learning more about programming
 - 📫 How to reach me: Ethical_Tomas (Twitter)
 - 😄 Pronouns: Him/He
-- ⚡ Fun fact: I'm awkwardly social
+- ⚡ Fun fact: I'm socially awkward
 
 <!-- - 🔭 I’m currently working on ...
 - - 👯 I’m looking to collaborate on ...
