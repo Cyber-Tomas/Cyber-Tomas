@@ -1,6 +1,6 @@
 
 ## Hello World 👋
-<img alt="My banner", src="#", width="", align=""> 
+<img alt="My banner" src="#" width="" align=""> 
 
 My name is Oladejo Anuoluwatomiwa also known as Ethical-Tomas I am a student at Obafemi Awolowo University studying Computer Science with Mathematics.
 I love to learn new things and i'm currently interested in/learning CyberSecurity and how to implement AI/Machine Learning into Cybersecurity.
