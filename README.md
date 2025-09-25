@@ -3,11 +3,11 @@
 <img alt="My banner" src="EthicalTomas Header.png" width="" height="" align=""> 
 
 My name is Oladejo Anuoluwatomiwa also known as Cyber-Tomas I am a student at Obafemi Awolowo University studying Computer Science with Mathematics.
-I love to learn new things and i'm currently interested in/learning CyberSecurity and how to implement AI/Machine Learning into Cybersecurity.
+I love to learn new things and learn pretty fast, i'm currently interested in/learning CyberSecurity and how to implement and defend against AI in Cybersecurity.
 I am also Open to meeting like minded people here on any learning path to learn from and work on projects together.
 
 
-- 🌱 I’m currently learning python programming and CS50x
+- 🌱 I’m currently restarting my cybersecutity journey with mentorship under DeepSeek
 - 🤔 I’m looking for a programming/cybersecurity realated mentor or learning patner 
 - 📫 How to reach me: @Ethical_Tomas (Twitter)
 - 😄 Pronouns: Him/He
