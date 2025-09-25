@@ -11,7 +11,7 @@ I am also Open to meeting like minded people here on any learning path to learn 
 - 🤔 I’m looking for a programming/cybersecurity realated mentor or learning patner 
 - 📫 How to reach me: @Ethical_Tomas (Twitter)
 - 😄 Pronouns: Him/He
-- ⚡ Fun fact: I am 90% intoverted
+- ⚡ Fun fact: I am an Otrovert
 
 <!-- - 🔭 I’m currently working on ...
 - - 👯 I’m looking to collaborate on ...
